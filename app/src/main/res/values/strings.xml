@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PersonTracking</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="host_ip_address">hostIpAddress</string>
+    <string name="enter_ip_address">Please enter the IP address</string>
+    <string name="fail_to_connect_server">Failed to Connect to Server</string>
+
+
+</resources>
